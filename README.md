@@ -1,5 +1,7 @@
 # Player Colliders
 
+## [Click me to download!](https://github.com/ineertiaa/Player-Colliders/releases/tag/1.0)
+
 # How to set up
 This one is very easy:
 

@@ -1,15 +1,11 @@
 using UnityEngine;
 using Photon.Pun;
 
-// reworking this made me reflect on how STUPID i was
-// do i have problems???? why was i disabling the gameobject
-// (im a dumbass)
-
 [RequireComponent(typeof(PhotonView))]
 
 public class PlayerCollider : MonoBehaviourPun
 {
-    [Header("Script was madde by TV No need to give Credits :D")]
+    [Header("Script was madde by Inertia No need to give Credits")]
     private Collider col;
 
     private void Start()
